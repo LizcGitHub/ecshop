@@ -2,19 +2,6 @@
 $data = array (
   0 => 
   array (
-    'cat_id' => '6',
-    'cat_name' => '手机配件',
-    'measure_unit' => '',
-    'parent_id' => '0',
-    'is_show' => '1',
-    'show_in_nav' => '1',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '4',
-    'goods_num' => 0,
-  ),
-  1 => 
-  array (
     'cat_id' => '1',
     'cat_name' => '手机类型',
     'measure_unit' => '',
@@ -26,7 +13,7 @@ $data = array (
     'has_children' => '4',
     'goods_num' => 0,
   ),
-  2 => 
+  1 => 
   array (
     'cat_id' => '12',
     'cat_name' => '充值卡',
@@ -37,6 +24,19 @@ $data = array (
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '3',
+    'goods_num' => 0,
+  ),
+  2 => 
+  array (
+    'cat_id' => '6',
+    'cat_name' => '手机配件',
+    'measure_unit' => '',
+    'parent_id' => '0',
+    'is_show' => '1',
+    'show_in_nav' => '1',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '4',
     'goods_num' => 0,
   ),
   3 => 
@@ -93,19 +93,6 @@ $data = array (
   ),
   7 => 
   array (
-    'cat_id' => '9',
-    'cat_name' => '电池',
-    'measure_unit' => '',
-    'parent_id' => '6',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  8 => 
-  array (
     'cat_id' => '11',
     'cat_name' => '读卡器和内存卡',
     'measure_unit' => '',
@@ -117,7 +104,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '2',
   ),
-  9 => 
+  8 => 
   array (
     'cat_id' => '7',
     'cat_name' => '充电器',
@@ -130,7 +117,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  10 => 
+  9 => 
   array (
     'cat_id' => '8',
     'cat_name' => '耳机',
@@ -142,6 +129,19 @@ $data = array (
     'sort_order' => '50',
     'has_children' => '0',
     'goods_num' => '3',
+  ),
+  10 => 
+  array (
+    'cat_id' => '9',
+    'cat_name' => '电池',
+    'measure_unit' => '',
+    'parent_id' => '6',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
   ),
   11 => 
   array (
