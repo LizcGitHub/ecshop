@@ -318,6 +318,7 @@ elseif($_REQUEST['act'] = 'done')
         'integral'        => isset($_POST['integral']) ? intval($_POST['integral']) : 0,
         'bonus_id'        => isset($_POST['bonus']) ? intval($_POST['bonus']) : 0,
         'need_inv'        => empty($_POST['need_inv']) ? 0 : 1,
+       // 'is_invoice'        => empty($_POST['is_invoice']) ? 0 : 1,
         'inv_type'        => $_POST['inv_type'],
         'inv_payee'       => trim($_POST['inv_payee']),
         'inv_content'     => $_POST['inv_content'],
@@ -551,6 +552,7 @@ elseif($_REQUEST['act'] = 'done')
 
         $smarty->assign('pay_online', $pay_online);
     }
+
 
     /* 订单信息 */
     $smarty->assign('order',      $order);

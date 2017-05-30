@@ -2,29 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd7ae141-9829-42b9-9cf6-58de176bc100" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/drag.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/goods_list.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/goods_search.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/index.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/login.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/menu.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/page.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/privilege_info.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/setting_first.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/shop_config.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/shop_config_form.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/top.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/users_list.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/api_str.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/menu_api.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/lib.debug.php" afterPath="$PROJECT_DIR$/includes/lib.debug.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/article.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/brands.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/buy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/cat_all.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/goods.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/goods_list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/includes/init.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/includes/lib_main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/article_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/brands.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/buy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/cat_all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/goods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/goods_img.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/goods_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/order.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/order_done.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/order_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/user.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/user_passport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/user.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/cls_template.php" afterPath="$PROJECT_DIR$/includes/cls_template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/vote.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/vote.lbi.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_41719924c2a1df81cc646d9f06d32913.php" afterPath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_41719924c2a1df81cc646d9f06d32913.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/cat_option_static.php" afterPath="$PROJECT_DIR$/temp/static_caches/cat_option_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/cat_pid_releate.php" afterPath="$PROJECT_DIR$/temp/static_caches/cat_pid_releate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/shop_config.php" afterPath="$PROJECT_DIR$/temp/static_caches/shop_config.php" />
     </list>
     <ignored path="ecchop_.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,62 +60,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <marker date="1496133697897" expanded="true" signature="622:1006" placeholder="//..." />
-                <marker date="1496133697897" expanded="true" signature="4630:4716" placeholder="SELECT ad_ty..${$ecs-&gt;table(&quot;ad_custom&quot;)}..." />
-                <marker date="1496133697897" expanded="true" signature="5079:5243" placeholder="SELECT c.cat..${$ecs-&gt;table(&quot;cat_recommend&quot;)}..." />
-                <marker date="1496133697897" expanded="true" signature="5963:6303" placeholder="SELECT o.ord..${$GLOBALS['ecs']-&gt;table('order_info')}..." />
-                <marker date="1496133697897" expanded="true" signature="12108:12216" placeholder="SELECT link_..${$GLOBALS['ecs']-&gt;table('friend_link')}..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="8.25">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state vertical-scroll-proportion="-12.0">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <marker date="1334114184000" expanded="true" signature="3055:3202" placeholder="SELECT artic..${$ecs-&gt;table(&quot;article&quot;)}..." />
+                <marker date="1491539565732" expanded="true" signature="4350:4454" placeholder="SELECT ad_id..${$ecs-&gt;table(&quot;ad_custom_wap&quot;)}..." />
+                <marker date="1491539565732" expanded="true" signature="4848:5012" placeholder="SELECT c.cat..${$ecs-&gt;table(&quot;cat_recommend&quot;)}..." />
+                <marker date="1491539565732" expanded="true" signature="5732:6072" placeholder="SELECT o.ord..${$GLOBALS['ecs']-&gt;table('order_info')}..." />
+                <marker date="1491539565732" expanded="true" signature="11877:11985" placeholder="SELECT link_..${$GLOBALS['ecs']-&gt;table('friend_link')}..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lib.debug.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/includes/lib.debug.php">
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile/includes/init.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0860465">
-              <caret line="317" column="0" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.139535">
+              <caret line="205" column="64" selection-start-line="205" selection-start-column="64" selection-end-line="205" selection-end-column="64" />
               <folding>
-                <marker date="1496133767908" expanded="true" signature="7013:7025" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="10810:10827" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="13214:13240" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="13938:13964" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="14081:14107" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="15064:15113" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="15327:15948" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="16107:16741" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="17159:17685" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="17187:17354" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="17380:17546" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="17570:17665" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="17751:18270" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="17820:18249" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="17853:17994" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="21653:22358" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="21687:21879" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="21906:21963" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="21990:22338" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="22408:22551" placeholder="..." />
-                <marker date="1496133767908" expanded="true" signature="22436:22531" placeholder="{...}" />
-                <marker date="1496133767908" expanded="true" signature="22620:22748" placeholder="..." />
-                <marker date="1496133767908" expanded="false" signature="22653:22696" placeholder="..." />
+                <marker date="1491477711263" expanded="true" signature="3078:3128" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -201,7 +179,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecchop_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecchop_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fckeditor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,6 +219,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="E:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_" />
+      <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_\includes" />
+      <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_\mobile" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -255,7 +267,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2457356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -315,19 +327,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.25">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <marker date="1334114184000" expanded="true" signature="3055:3202" placeholder="SELECT artic..${$ecs-&gt;table(&quot;article&quot;)}..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/lib.debug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0860465">
+        <state vertical-scroll-proportion="-25.944445">
           <caret line="317" column="0" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
           <folding>
             <marker date="1496133767908" expanded="true" signature="7013:7025" placeholder="..." />
@@ -353,6 +355,76 @@
             <marker date="1496133767908" expanded="true" signature="22436:22531" placeholder="{...}" />
             <marker date="1496133767908" expanded="true" signature="22620:22748" placeholder="..." />
             <marker date="1496133767908" expanded="false" signature="22653:22696" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/themes/default/images/cate2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/themes/default/index.dwt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48214287">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/includes/cls_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4802325">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#7#490#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34651163">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.0">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1491539565732" expanded="true" signature="4350:4454" placeholder="SELECT ad_id..${$ecs-&gt;table(&quot;ad_custom_wap&quot;)}..." />
+            <marker date="1491539565732" expanded="true" signature="4848:5012" placeholder="SELECT c.cat..${$ecs-&gt;table(&quot;cat_recommend&quot;)}..." />
+            <marker date="1491539565732" expanded="true" signature="5732:6072" placeholder="SELECT o.ord..${$GLOBALS['ecs']-&gt;table('order_info')}..." />
+            <marker date="1491539565732" expanded="true" signature="11877:11985" placeholder="SELECT link_..${$GLOBALS['ecs']-&gt;table('friend_link')}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.139535">
+          <caret line="205" column="64" selection-start-line="205" selection-start-column="64" selection-end-line="205" selection-end-column="64" />
+          <folding>
+            <marker date="1491477711263" expanded="true" signature="3078:3128" placeholder="..." />
           </folding>
         </state>
       </provider>

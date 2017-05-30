@@ -9,18 +9,25 @@
  * 这不是一个自由软件！您只能在不用于商业目的的前提下对程序代码进行修改和
  * 使用；不允许对程序代码以任何形式任何目的的再发布。
  * ============================================================================
- * $Author: sxc_shop $
- * $Id: search.php 16908 2009-12-18 08:25:08Z sxc_shop $
+ * $Author: liubo $
+ * $Id: search.php 17217 2011-01-19 06:29:08Z liubo $
 */
 
 define('IN_ECS', true);
 
+if (!function_exists("htmlspecialchars_decode"))
+{
+    function htmlspecialchars_decode($string, $quote_style = ENT_COMPAT)
+    {
+        return strtr($string, array_flip(get_html_translation_table(HTML_SPECIALCHARS, $quote_style)));
+    }
+}
 if (empty($_GET['encode']))
 {
     $string = array_merge($_GET, $_POST);
     if (get_magic_quotes_gpc())
     {
-        require(dirname(__FILE__) . '/../includes/lib_base.php');
+        require(dirname(__FILE__) . '/includes/lib_base.php');
         //require(dirname(__FILE__) . '/includes/lib_common.php');
 
         $string = stripslashes_deep($string);
@@ -105,7 +112,7 @@ if ($_REQUEST['act'] == 'advanced_search')
 /*------------------------------------------------------ */
 else
 {
-    $_REQUEST['keywords']   = !empty($_REQUEST['keywords'])   ? trim($_REQUEST['keywords'])     : '';
+    $_REQUEST['keywords']   = !empty($_REQUEST['keywords'])   ? htmlspecialchars(trim($_REQUEST['keywords']))     : '';
     $_REQUEST['brand']      = !empty($_REQUEST['brand'])      ? intval($_REQUEST['brand'])      : 0;
     $_REQUEST['category']   = !empty($_REQUEST['category'])   ? intval($_REQUEST['category'])   : 0;
     $_REQUEST['min_price']  = !empty($_REQUEST['min_price'])  ? intval($_REQUEST['min_price'])  : 0;
@@ -133,12 +140,12 @@ else
             {
                 if ($val['type'] == 2)
                 {
-                    $attributes['attr'][$key]['value']['from'] = !empty($_REQUEST['attr'][$val['id']]['from']) ? trim($_REQUEST['attr'][$val['id']]['from']) : '';
-                    $attributes['attr'][$key]['value']['to']   = !empty($_REQUEST['attr'][$val['id']]['to'])   ? trim($_REQUEST['attr'][$val['id']]['to'])   : '';
+                    $attributes['attr'][$key]['value']['from'] = !empty($_REQUEST['attr'][$val['id']]['from']) ? htmlspecialchars(stripcslashes(trim($_REQUEST['attr'][$val['id']]['from']))) : '';
+                    $attributes['attr'][$key]['value']['to']   = !empty($_REQUEST['attr'][$val['id']]['to'])   ? htmlspecialchars(stripcslashes(trim($_REQUEST['attr'][$val['id']]['to'])))   : '';
                 }
                 else
                 {
-                    $attributes['attr'][$key]['value'] = !empty($_REQUEST['attr'][$val['id']]) ? trim($_REQUEST['attr'][$val['id']]) : '';
+                    $attributes['attr'][$key]['value'] = !empty($_REQUEST['attr'][$val['id']]) ? htmlspecialchars(stripcslashes(trim($_REQUEST['attr'][$val['id']]))) : '';
                 }
             }
         }
@@ -209,7 +216,7 @@ else
             }
 
             $db->autoReplace($ecs->table('keywords'), array('date' => local_date('Y-m-d'),
-                'searchengine' => 'ecshop', 'keyword' => $val, 'count' => 1), array('count' => 1));
+                'searchengine' => 'ecshop', 'keyword' => addslashes(str_replace('%', '', $val)), 'count' => 1), array('count' => 1));
         }
         $keywords .= ')';
 
@@ -234,7 +241,7 @@ else
     $default_sort_order_method = $_CFG['sort_order_method'] == '0' ? 'DESC' : 'ASC';
     $default_sort_order_type   = $_CFG['sort_order_type'] == '0' ? 'goods_id' : ($_CFG['sort_order_type'] == '1' ? 'shop_price' : 'last_update');
 
-    $sort = (isset($_REQUEST['sort'])  && in_array(trim(strtolower($_REQUEST['sort'])), array('goods_id', 'shop_price', 'last_update'))) ? trim($_REQUEST['sort'])  : $default_sort_order_type;
+    $sort = (isset($_REQUEST['sort'])  && in_array(trim(strtolower($_REQUEST['sort'])), array('goods_id', 'shop_price', 'last_update','click_count'))) ? trim($_REQUEST['sort'])  : $default_sort_order_type;
     $order = (isset($_REQUEST['order']) && in_array(trim(strtoupper($_REQUEST['order'])), array('ASC', 'DESC'))) ? trim($_REQUEST['order']) : $default_sort_order_method;
     $display  = (isset($_REQUEST['display']) && in_array(trim(strtolower($_REQUEST['display'])), array('list', 'grid', 'text'))) ? trim($_REQUEST['display'])  : (isset($_SESSION['display_search']) ? $_SESSION['display_search'] : $default_display_type);
 
@@ -279,7 +286,10 @@ else
         $intro = '';
     }
 
-
+    if (empty($ur_here))
+    {
+        $ur_here = $_LANG['search_goods'];
+    }
 
     /*------------------------------------------------------ */
     //-- 属性检索
@@ -380,7 +390,7 @@ else
                 "AND (( 1 " . $categories . $keywords . $brand . $min_price . $max_price . $intro . $outstock . " ) ".$tag_where." ) " .
             "ORDER BY $sort $order";
     $res = $db->SelectLimit($sql, $size, ($page - 1) * $size);
-
+//    echo $sql;
     $arr = array();
     while ($row = $db->FetchRow($res))
     {
@@ -393,22 +403,74 @@ else
             $promote_price = 0;
         }
 
+        /* 处理商品水印图片 */
+        /* 处理商品水印图片 */
+        $watermark_img = '';
+
+        if ($promote_price != 0)
+        {
+            $watermark_img = "watermark_promote_small";
+        }
+        elseif ($row['is_new'] != 0)
+        {
+            $watermark_img = "watermark_new_small";
+        }
+        elseif ($row['is_best'] != 0)
+        {
+            $watermark_img = "watermark_best_small";
+        }
+        elseif ($row['is_hot'] != 0)
+        {
+            $watermark_img = 'watermark_hot_small';
+        }
+
+        if ($watermark_img != '')
+        {
+            $arr[$row['goods_id']]['watermark_img'] =  $watermark_img;
+        }
+
         $arr[$row['goods_id']]['goods_id']      = $row['goods_id'];
-        $arr[$row['goods_id']]['goods_name']      = $row['goods_name'];
+        if($display == 'grid')
+        {
+            $arr[$row['goods_id']]['goods_name']    = $GLOBALS['_CFG']['goods_name_length'] > 0 ? sub_str($row['goods_name'], $GLOBALS['_CFG']['goods_name_length']) : $row['goods_name'];
+        }
+        else
+        {
+            $arr[$row['goods_id']]['goods_name'] = $row['goods_name'];
+        }
+        $arr[$row['goods_id']]['type']          = $row['goods_type'];
+        $arr[$row['goods_id']]['market_price']  = price_format($row['market_price']);
         $arr[$row['goods_id']]['shop_price']    = price_format($row['shop_price']);
         $arr[$row['goods_id']]['promote_price'] = ($promote_price > 0) ? price_format($promote_price) : '';
+        $arr[$row['goods_id']]['goods_brief']   = $row['goods_brief'];
+        $arr[$row['goods_id']]['goods_thumb']   = get_image_path($row['goods_id'], $row['goods_thumb'], true);
+        $arr[$row['goods_id']]['goods_img']     = get_image_path($row['goods_id'], $row['goods_img']);
         $arr[$row['goods_id']]['url']           = build_uri('goods', array('gid' => $row['goods_id']), $row['goods_name']);
+				$arr[$row['goods_id']]['sales_count']      = get_goods_sales_count($row['goods_id']);
     }
 
-    $smarty->assign('goods_data', $arr);
+    if($display == 'grid')
+    {
+        if(count($arr) % 2 != 0)
+        {
+            $arr[] = array();
+        }
+    }
+//    print_r($arr );
+    $smarty->assign('goods_list', $arr);
+    $smarty->assign('category',   $category);
     $smarty->assign('keywords',   htmlspecialchars(stripslashes($_REQUEST['keywords'])));
-    $smarty->assign('search_keywords',   stripslashes($_REQUEST['keywords']));
+    $smarty->assign('search_keywords',   stripslashes(htmlspecialchars_decode($_REQUEST['keywords'])));
+    $smarty->assign('brand',      $_REQUEST['brand']);
+    $smarty->assign('min_price',  $min_price);
+    $smarty->assign('max_price',  $max_price);
+    $smarty->assign('outstock',  $_REQUEST['outstock']);
 
     /* 分页 */
     $url_format = "search.php?category=$category&amp;keywords=" . urlencode(stripslashes($_REQUEST['keywords'])) . "&amp;brand=" . $_REQUEST['brand']."&amp;action=".$action."&amp;goods_type=" . $_REQUEST['goods_type'] . "&amp;sc_ds=" . $_REQUEST['sc_ds'];
-    if (!empty($_REQUEST['intro']))
+    if (!empty($intromode))
     {
-        $url_format .= "&amp;intro=" . $_REQUEST['intro'];
+        $url_format .= "&amp;intro=" . $intromode;
     }
     if (isset($_REQUEST['pickout']))
     {
@@ -427,40 +489,31 @@ else
         'min_price'  => $_REQUEST['min_price'],
         'max_price'  => $_REQUEST['max_price'],
         'action'     => $action,
-        'intro'      => empty($_REQUEST['intro']) ? '' : trim($_REQUEST['intro']),
+        'intro'      => empty($intromode) ? '' : trim($intromode),
         'goods_type' => $_REQUEST['goods_type'],
         'sc_ds'      => $_REQUEST['sc_ds'],
         'outstock'   => $_REQUEST['outstock']
     );
     $pager['search'] = array_merge($pager['search'], $attr_arg);
+
     $pager = get_pager('search.php', $pager['search'], $count, $page, $size);
+    $pager['display'] = $display;
+		
+    $smarty->assign('url_format', $url_format);
     $smarty->assign('pager', $pager);
 
-    $pagebar = get_wap_pager($count, $size, $page, $url_format, 'page');
-    $smarty->assign('pagebar' , $pagebar);
-
-    $_LANG['sort']['goods_id'] = '按上架时间排序';
-    $_LANG['sort']['shop_price'] = '按价格排序';
-    $_LANG['sort']['last_update'] = '按更新时间排序';
-    $_LANG['order']['DESC'] = '倒序';
-    $_LANG['order']['ASC'] = '正序';
-
-    $smarty->assign('lang' , $_LANG);
-
+    assign_template();
     assign_dynamic('search');
+    $position = assign_ur_here(0, $ur_here . ($_REQUEST['keywords'] ? '_' . $_REQUEST['keywords'] : ''));
+    $smarty->assign('page_title', $position['title']);    // 页面标题
+    $smarty->assign('ur_here',    $position['ur_here']);  // 当前位置
+    $smarty->assign('intromode',      $intromode);
+    $smarty->assign('categories', get_categories_tree()); // 分类树
+    $smarty->assign('helps',       get_shop_help());      // 网店帮助
+    $smarty->assign('top_goods',  get_top10());           // 销售排行
+    $smarty->assign('promotion_info', get_promotion_info());
 
-
-    if (!empty($GLOBALS['_CFG']['search_keywords']))
-    {
-        $searchkeywords = explode(',', trim($GLOBALS['_CFG']['search_keywords']));
-    }
-    else
-    {
-        $searchkeywords = array();
-    }
-    $smarty->assign('searchkeywords', $searchkeywords);
-    $smarty->assign('footer', get_footer());
-    $smarty->display('search.html');
+    $smarty->display('search.dwt');
 }
 
 /*------------------------------------------------------ */

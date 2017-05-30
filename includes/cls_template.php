@@ -284,8 +284,8 @@ class cls_template
         {
             $source = $this->smarty_prefilter_preCompile($source);
         }
-        $source=preg_replace("/([^a-zA-Z0-9_]{1,1})+(copy|fputs|fopen|file_put_contents|fwrite|eval|phpinfo)+( |\()/is", "", $source);
-        if(preg_match_all('~(<\?(?:\w+|=)?|\?>|language\s*=\s*[\"\']?php[\"\']?)~is', $source, $sp_match))
+
+        /*if(preg_match_all('~(<\?(?:\w+|=)?|\?>|language\s*=\s*[\"\']?php[\"\']?)~is', $source, $sp_match))
         {
             $sp_match[1] = array_unique($sp_match[1]);
             for ($curr_sp = 0, $for_max2 = count($sp_match[1]); $curr_sp < $for_max2; $curr_sp++)
@@ -296,7 +296,7 @@ class cls_template
             {
                  $source= str_replace('%%%SMARTYSP'.$curr_sp.'%%%', '<?php echo \''.str_replace("'", "\'", $sp_match[1][$curr_sp]).'\'; ?>'."\n", $source);
             }
-         }
+         }*/
          return preg_replace("/{([^\}\{\n]*)}/e", "\$this->select('\\1');", $source);
     }
 
@@ -379,10 +379,6 @@ class cls_template
         }
         elseif ($tag{0} == '$') // 变量
         {
-//            if(strpos($tag,"'") || strpos($tag,"]"))
-//            {
-//                 return '';
-//            }
             return '<?php echo ' . $this->get_val(substr($tag, 1)) . '; ?>';
         }
         elseif ($tag{0} == '/') // 结束 tag
