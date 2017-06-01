@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd7ae141-9829-42b9-9cf6-58de176bc100" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/article.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/brands.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/buy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/cat_all.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/category.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/comment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/goods.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/goods_list.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/includes/init.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/includes/lib_main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/article.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/article_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/brands.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/buy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/cat_all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/category.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/comment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/goods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/goods_img.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/goods_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/order_done.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/order_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/user.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/templates/user_passport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/user.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/cls_template.php" afterPath="$PROJECT_DIR$/includes/cls_template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/vote.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/vote.lbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_41719924c2a1df81cc646d9f06d32913.php" afterPath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_41719924c2a1df81cc646d9f06d32913.php" />
-    </list>
+    <list default="true" id="dd7ae141-9829-42b9-9cf6-58de176bc100" name="Default" comment="" />
     <ignored path="ecchop_.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -58,18 +21,13 @@
     <favorites_list name="ecchop_" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <marker date="1491539565732" expanded="true" signature="4350:4454" placeholder="SELECT ad_id..${$ecs-&gt;table(&quot;ad_custom_wap&quot;)}..." />
-                <marker date="1491539565732" expanded="true" signature="4848:5012" placeholder="SELECT c.cat..${$ecs-&gt;table(&quot;cat_recommend&quot;)}..." />
-                <marker date="1491539565732" expanded="true" signature="5732:6072" placeholder="SELECT o.ord..${$GLOBALS['ecs']-&gt;table('order_info')}..." />
-                <marker date="1491539565732" expanded="true" signature="11877:11985" placeholder="SELECT link_..${$GLOBALS['ecs']-&gt;table('friend_link')}..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,10 +35,10 @@
       <file leaf-file-name="init.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/includes/init.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.139535">
+            <state vertical-scroll-proportion="0.03139535">
               <caret line="205" column="64" selection-start-line="205" selection-start-column="64" selection-end-line="205" selection-end-column="64" />
               <folding>
-                <marker date="1491477711263" expanded="true" signature="3078:3128" placeholder="..." />
+                <marker date="1496288252249" expanded="true" signature="3078:3128" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -137,6 +95,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,7 +170,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +202,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -264,24 +227,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -294,11 +257,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobile/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496288252249" expanded="true" signature="3078:3128" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/htaccess.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -306,10 +286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1334114182000" expanded="true" signature="2799:2954" placeholder="SELECT COUNT..${$ecs-&gt;table('article')}..." />
-            <marker date="1334114182000" expanded="true" signature="3009:3120" placeholder="SELECT COUNT..${$ecs-&gt;table('article')}..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,31 +307,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-25.944445">
           <caret line="317" column="0" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
-          <folding>
-            <marker date="1496133767908" expanded="true" signature="7013:7025" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="10810:10827" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="13214:13240" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="13938:13964" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="14081:14107" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="15064:15113" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="15327:15948" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="16107:16741" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="17159:17685" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="17187:17354" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="17380:17546" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="17570:17665" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="17751:18270" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="17820:18249" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="17853:17994" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="21653:22358" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="21687:21879" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="21906:21963" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="21990:22338" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="22408:22551" placeholder="..." />
-            <marker date="1496133767908" expanded="true" signature="22436:22531" placeholder="{...}" />
-            <marker date="1496133767908" expanded="true" signature="22620:22748" placeholder="..." />
-            <marker date="1496133767908" expanded="false" signature="22653:22696" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -371,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -384,7 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48214287">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -402,29 +352,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34651163">
           <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <marker date="1491539565732" expanded="true" signature="4350:4454" placeholder="SELECT ad_id..${$ecs-&gt;table(&quot;ad_custom_wap&quot;)}..." />
-            <marker date="1491539565732" expanded="true" signature="4848:5012" placeholder="SELECT c.cat..${$ecs-&gt;table(&quot;cat_recommend&quot;)}..." />
-            <marker date="1491539565732" expanded="true" signature="5732:6072" placeholder="SELECT o.ord..${$GLOBALS['ecs']-&gt;table('order_info')}..." />
-            <marker date="1491539565732" expanded="true" signature="11877:11985" placeholder="SELECT link_..${$GLOBALS['ecs']-&gt;table('friend_link')}..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/includes/init.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.139535">
+        <state vertical-scroll-proportion="0.03139535">
           <caret line="205" column="64" selection-start-line="205" selection-start-column="64" selection-end-line="205" selection-end-column="64" />
           <folding>
-            <marker date="1491477711263" expanded="true" signature="3078:3128" placeholder="..." />
+            <marker date="1496288252249" expanded="true" signature="3078:3128" placeholder="..." />
           </folding>
         </state>
       </provider>
