@@ -40,6 +40,9 @@ if (!empty($_REQUEST['act']) && $_REQUEST['act'] == 'asynclist')
 
     /* 取得团购活动总数 */
     $count = group_buy_count();
+
+    //不会执行到这一行
+//    var_dump("团购活动的数量:".$count);
     if ($count > 0)
     {
     	$goods_list = group_buy_list2($amount, $last);
@@ -62,6 +65,7 @@ if ($_REQUEST['act'] == 'list')
 {
     /* 取得团购活动总数 */
     $count = group_buy_count();
+//    var_dump($count);
     if ($count > 0)
     {
         /* 取得每页记录数 */
@@ -69,6 +73,8 @@ if ($_REQUEST['act'] == 'list')
 
         /* 计算总页数 */
         $page_count = ceil($count / $size);
+
+//        var_dump("总页数_76行".$page_count);
 
         /* 取得当前页 */
         $page = isset($_REQUEST['page']) && intval($_REQUEST['page']) > 0 ? intval($_REQUEST['page']) : 1;
@@ -84,14 +90,17 @@ if ($_REQUEST['act'] == 'list')
         $cache_id = $_CFG['lang'];
         $cache_id = sprintf('%X', crc32($cache_id));
     }
+//    var_dump("奇怪？缓存？？");
 
     /* 如果没有缓存，生成缓存 */
     if (!$smarty->is_cached('group_buy_list.dwt', $cache_id))
     {
+//        var_dump("缓存？？");
         if ($count > 0)
         {
             /* 取得当前页的团购活动 */
             $gb_list = group_buy_list($size, $page);
+//            var_dump("列表？？".$gb_list);
             $smarty->assign('gb_list',  $gb_list);
 
             /* 设置分页链接 */
@@ -335,6 +344,8 @@ function group_buy_count()
             "WHERE act_type = '" . GAT_GROUP_BUY . "' " .
             "AND start_time <= '$now' AND is_finished < 3";
 
+
+
     return $GLOBALS['db']->getOne($sql);
 }
 
@@ -346,6 +357,7 @@ function group_buy_count()
  */
 function group_buy_list($size, $page)
 {
+//    var_dump("团购列表");
     /* 取得团购活动 */
     $gb_list = array();
     $now = gmtime();

@@ -5,21 +5,21 @@
   </div>
   <div class="listProduct">
     <ul>
-      <?php $_from = $this->_var['cat_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_85443600_1491539441');$this->_foreach['cat_goods'] = array('total' => count($_from), 'iteration' => 0);
+      <?php $_from = $this->_var['cat_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_84202000_1496299126');$this->_foreach['cat_goods'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['cat_goods']['total'] > 0):
-    foreach ($_from AS $this->_var['goods_0_85443600_1491539441']):
+    foreach ($_from AS $this->_var['goods_0_84202000_1496299126']):
         $this->_foreach['cat_goods']['iteration']++;
 ?>
-      <li> <a href="<?php echo $this->_var['goods_0_85443600_1491539441']['url']; ?>">
-        <div style="background-image:url('<?php echo $this->_var['goods_0_85443600_1491539441']['thumb']; ?>');" class="pic_box"><img draggable="false" src="themes/default/images/blank_10_10.png"></div>
-        <div class="title_box"><?php echo $this->_var['goods_0_85443600_1491539441']['short_name']; ?></div>
+      <li> <a href="<?php echo $this->_var['goods_0_84202000_1496299126']['url']; ?>">
+        <div style="background-image:url('<?php echo $this->_var['goods_0_84202000_1496299126']['thumb']; ?>');" class="pic_box"><img draggable="false" src="themes/default/images/blank_10_10.png"></div>
+        <div class="title_box"><?php echo $this->_var['goods_0_84202000_1496299126']['short_name']; ?></div>
         <div class="price_box"> <span>
-          <?php if ($this->_var['goods_0_85443600_1491539441']['promote_price'] != ""): ?>
-          <?php echo $this->_var['goods_0_85443600_1491539441']['promote_price']; ?>
+          <?php if ($this->_var['goods_0_84202000_1496299126']['promote_price'] != ""): ?>
+          <?php echo $this->_var['goods_0_84202000_1496299126']['promote_price']; ?>
           <?php else: ?>
-          <?php echo $this->_var['goods_0_85443600_1491539441']['shop_price']; ?>
+          <?php echo $this->_var['goods_0_84202000_1496299126']['shop_price']; ?>
           <?php endif; ?>
-          </span><del><?php echo $this->_var['goods_0_85443600_1491539441']['market_price']; ?></del> </div>
+          </span><del><?php echo $this->_var['goods_0_84202000_1496299126']['market_price']; ?></del> </div>
         </a> </li>
       <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
     </ul>

@@ -46,12 +46,15 @@
       <input type="hidden" name="order" value="<?php echo $this->_var['pager']['order']; ?>" />
     </form>
   </div>
+
   <form name="compareForm" action="compare.php" method="post" onSubmit="return compareGoods(this);">
+  
     <div class="srp album flex-f-row" id="J_ItemList" style="opacity:1;">
       <div class="product flex_in single_item">
         <div class="pro-inner"></div>
       </div>
-      <a href="javascript:;" class="get_more"></a> </div>
+      <a href="javascript:;" class="get_more"></a>
+    </div>
   </form>
   <?php echo $this->fetch('library/page_footer.lbi'); ?>
 </div>
@@ -104,14 +107,15 @@
         </div>
       </div>
       <?php endif; ?>
-      <?php $_from = $this->_var['filter_attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'filter_attr_0_77638700_1492739998');if (count($_from)):
-    foreach ($_from AS $this->_var['filter_attr_0_77638700_1492739998']):
+      <?php $_from = $this->_var['filter_attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'filter_attr_0_20022100_1496309865');if (count($_from)):
+    foreach ($_from AS $this->_var['filter_attr_0_20022100_1496309865']):
 ?>
+
       <div class="attr brandAttr">
-        <div class="attrKey"><?php echo htmlspecialchars($this->_var['filter_attr_0_77638700_1492739998']['filter_attr_name']); ?></div>
+        <div class="attrKey"><?php echo htmlspecialchars($this->_var['filter_attr_0_20022100_1496309865']['filter_attr_name']); ?></div>
         <div class="attrValues">
           <ul class="av-collapse filter_list">
-          <?php $_from = $this->_var['filter_attr_0_77638700_1492739998']['attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'attr');if (count($_from)):
+          <?php $_from = $this->_var['filter_attr_0_20022100_1496309865']['attr_list']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'attr');if (count($_from)):
     foreach ($_from AS $this->_var['attr']):
 ?>
             <?php if ($this->_var['attr']['selected']): ?>

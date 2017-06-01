@@ -474,300 +474,455 @@ $data = array (
     ),
     94 => 
     array (
-      'goods_id' => '4490',
+      'goods_id' => '4478',
       'sort_order' => '100',
     ),
     95 => 
     array (
-      'goods_id' => '4491',
+      'goods_id' => '4490',
       'sort_order' => '100',
     ),
     96 => 
     array (
-      'goods_id' => '4492',
+      'goods_id' => '4491',
       'sort_order' => '100',
     ),
     97 => 
     array (
-      'goods_id' => '4493',
+      'goods_id' => '4492',
       'sort_order' => '100',
     ),
     98 => 
     array (
-      'goods_id' => '4495',
+      'goods_id' => '4493',
       'sort_order' => '100',
     ),
     99 => 
     array (
-      'goods_id' => '4498',
+      'goods_id' => '4495',
       'sort_order' => '100',
     ),
     100 => 
     array (
-      'goods_id' => '4502',
+      'goods_id' => '4498',
       'sort_order' => '100',
     ),
     101 => 
     array (
-      'goods_id' => '4504',
+      'goods_id' => '4502',
       'sort_order' => '100',
     ),
     102 => 
     array (
-      'goods_id' => '4505',
+      'goods_id' => '4504',
       'sort_order' => '100',
     ),
     103 => 
     array (
-      'goods_id' => '4506',
+      'goods_id' => '4505',
       'sort_order' => '100',
     ),
     104 => 
     array (
-      'goods_id' => '4523',
+      'goods_id' => '4506',
       'sort_order' => '100',
     ),
     105 => 
     array (
-      'goods_id' => '4524',
+      'goods_id' => '4523',
       'sort_order' => '100',
     ),
     106 => 
     array (
-      'goods_id' => '4541',
+      'goods_id' => '4524',
       'sort_order' => '100',
     ),
     107 => 
     array (
-      'goods_id' => '4546',
+      'goods_id' => '4541',
       'sort_order' => '100',
     ),
     108 => 
     array (
-      'goods_id' => '3368',
+      'goods_id' => '4546',
       'sort_order' => '100',
     ),
     109 => 
     array (
-      'goods_id' => '3369',
+      'goods_id' => '3368',
       'sort_order' => '100',
     ),
     110 => 
     array (
-      'goods_id' => '4141',
+      'goods_id' => '3369',
       'sort_order' => '100',
     ),
     111 => 
     array (
-      'goods_id' => '1681',
+      'goods_id' => '4141',
       'sort_order' => '100',
     ),
     112 => 
     array (
-      'goods_id' => '1682',
+      'goods_id' => '1681',
       'sort_order' => '100',
     ),
     113 => 
     array (
-      'goods_id' => '1684',
+      'goods_id' => '1682',
       'sort_order' => '100',
     ),
     114 => 
     array (
-      'goods_id' => '1687',
+      'goods_id' => '1684',
       'sort_order' => '100',
     ),
     115 => 
     array (
-      'goods_id' => '1689',
+      'goods_id' => '1687',
       'sort_order' => '100',
     ),
     116 => 
     array (
-      'goods_id' => '1694',
+      'goods_id' => '1689',
       'sort_order' => '100',
     ),
     117 => 
     array (
-      'goods_id' => '2554',
+      'goods_id' => '1694',
       'sort_order' => '100',
     ),
     118 => 
     array (
-      'goods_id' => '4507',
+      'goods_id' => '2554',
       'sort_order' => '100',
     ),
     119 => 
     array (
-      'goods_id' => '4517',
+      'goods_id' => '2645',
       'sort_order' => '100',
     ),
     120 => 
     array (
-      'goods_id' => '4516',
+      'goods_id' => '4507',
       'sort_order' => '100',
     ),
     121 => 
     array (
-      'goods_id' => '4519',
+      'goods_id' => '4516',
       'sort_order' => '100',
     ),
     122 => 
     array (
-      'goods_id' => '4520',
+      'goods_id' => '4517',
       'sort_order' => '100',
     ),
     123 => 
     array (
-      'goods_id' => '4521',
+      'goods_id' => '4519',
       'sort_order' => '100',
     ),
     124 => 
     array (
-      'goods_id' => '4529',
+      'goods_id' => '4520',
       'sort_order' => '100',
     ),
     125 => 
     array (
-      'goods_id' => '4528',
+      'goods_id' => '4521',
       'sort_order' => '100',
     ),
     126 => 
     array (
-      'goods_id' => '4527',
+      'goods_id' => '4539',
       'sort_order' => '100',
     ),
     127 => 
     array (
-      'goods_id' => '4526',
+      'goods_id' => '4538',
       'sort_order' => '100',
     ),
     128 => 
     array (
-      'goods_id' => '4515',
+      'goods_id' => '4537',
       'sort_order' => '100',
     ),
     129 => 
     array (
-      'goods_id' => '4514',
+      'goods_id' => '4536',
       'sort_order' => '100',
     ),
     130 => 
     array (
-      'goods_id' => '4513',
+      'goods_id' => '4535',
       'sort_order' => '100',
     ),
     131 => 
     array (
-      'goods_id' => '4512',
+      'goods_id' => '4529',
       'sort_order' => '100',
     ),
     132 => 
     array (
-      'goods_id' => '4511',
+      'goods_id' => '4528',
       'sort_order' => '100',
     ),
     133 => 
     array (
-      'goods_id' => '4510',
+      'goods_id' => '4527',
       'sort_order' => '100',
     ),
     134 => 
     array (
-      'goods_id' => '4509',
+      'goods_id' => '4526',
       'sort_order' => '100',
     ),
     135 => 
     array (
-      'goods_id' => '4508',
+      'goods_id' => '4515',
       'sort_order' => '100',
     ),
     136 => 
     array (
-      'goods_id' => '4313',
+      'goods_id' => '4514',
       'sort_order' => '100',
     ),
     137 => 
     array (
-      'goods_id' => '4314',
+      'goods_id' => '4513',
       'sort_order' => '100',
     ),
     138 => 
     array (
-      'goods_id' => '4431',
+      'goods_id' => '4512',
       'sort_order' => '100',
     ),
     139 => 
     array (
-      'goods_id' => '4488',
+      'goods_id' => '4511',
       'sort_order' => '100',
     ),
     140 => 
     array (
-      'goods_id' => '4487',
+      'goods_id' => '4510',
       'sort_order' => '100',
     ),
     141 => 
     array (
-      'goods_id' => '4486',
+      'goods_id' => '4509',
       'sort_order' => '100',
     ),
     142 => 
     array (
-      'goods_id' => '4485',
+      'goods_id' => '4508',
       'sort_order' => '100',
     ),
     143 => 
     array (
-      'goods_id' => '4484',
+      'goods_id' => '4409',
       'sort_order' => '100',
     ),
     144 => 
     array (
-      'goods_id' => '4483',
+      'goods_id' => '4569',
       'sort_order' => '100',
     ),
     145 => 
     array (
-      'goods_id' => '4482',
+      'goods_id' => '4313',
       'sort_order' => '100',
     ),
     146 => 
     array (
-      'goods_id' => '4481',
+      'goods_id' => '4314',
       'sort_order' => '100',
     ),
     147 => 
     array (
-      'goods_id' => '4480',
+      'goods_id' => '4431',
       'sort_order' => '100',
     ),
     148 => 
     array (
-      'goods_id' => '4479',
+      'goods_id' => '4488',
       'sort_order' => '100',
     ),
     149 => 
     array (
-      'goods_id' => '1708',
+      'goods_id' => '4487',
       'sort_order' => '100',
     ),
     150 => 
     array (
-      'goods_id' => '1678',
+      'goods_id' => '4486',
       'sort_order' => '100',
     ),
     151 => 
     array (
-      'goods_id' => '1677',
+      'goods_id' => '4485',
       'sort_order' => '100',
     ),
     152 => 
     array (
-      'goods_id' => '1751',
+      'goods_id' => '4484',
       'sort_order' => '100',
     ),
     153 => 
+    array (
+      'goods_id' => '4483',
+      'sort_order' => '100',
+    ),
+    154 => 
+    array (
+      'goods_id' => '4482',
+      'sort_order' => '100',
+    ),
+    155 => 
+    array (
+      'goods_id' => '4481',
+      'sort_order' => '100',
+    ),
+    156 => 
+    array (
+      'goods_id' => '4480',
+      'sort_order' => '100',
+    ),
+    157 => 
+    array (
+      'goods_id' => '4479',
+      'sort_order' => '100',
+    ),
+    158 => 
+    array (
+      'goods_id' => '4435',
+      'sort_order' => '100',
+    ),
+    159 => 
+    array (
+      'goods_id' => '4434',
+      'sort_order' => '100',
+    ),
+    160 => 
+    array (
+      'goods_id' => '4433',
+      'sort_order' => '100',
+    ),
+    161 => 
+    array (
+      'goods_id' => '4432',
+      'sort_order' => '100',
+    ),
+    162 => 
+    array (
+      'goods_id' => '4066',
+      'sort_order' => '100',
+    ),
+    163 => 
+    array (
+      'goods_id' => '3500',
+      'sort_order' => '100',
+    ),
+    164 => 
+    array (
+      'goods_id' => '3372',
+      'sort_order' => '100',
+    ),
+    165 => 
+    array (
+      'goods_id' => '3271',
+      'sort_order' => '100',
+    ),
+    166 => 
+    array (
+      'goods_id' => '3215',
+      'sort_order' => '100',
+    ),
+    167 => 
+    array (
+      'goods_id' => '3214',
+      'sort_order' => '100',
+    ),
+    168 => 
+    array (
+      'goods_id' => '3204',
+      'sort_order' => '100',
+    ),
+    169 => 
+    array (
+      'goods_id' => '3200',
+      'sort_order' => '100',
+    ),
+    170 => 
+    array (
+      'goods_id' => '3159',
+      'sort_order' => '100',
+    ),
+    171 => 
+    array (
+      'goods_id' => '1445',
+      'sort_order' => '100',
+    ),
+    172 => 
+    array (
+      'goods_id' => '3018',
+      'sort_order' => '100',
+    ),
+    173 => 
+    array (
+      'goods_id' => '1708',
+      'sort_order' => '100',
+    ),
+    174 => 
+    array (
+      'goods_id' => '2032',
+      'sort_order' => '100',
+    ),
+    175 => 
+    array (
+      'goods_id' => '2003',
+      'sort_order' => '100',
+    ),
+    176 => 
+    array (
+      'goods_id' => '1985',
+      'sort_order' => '100',
+    ),
+    177 => 
+    array (
+      'goods_id' => '1928',
+      'sort_order' => '100',
+    ),
+    178 => 
+    array (
+      'goods_id' => '1846',
+      'sort_order' => '100',
+    ),
+    179 => 
+    array (
+      'goods_id' => '1796',
+      'sort_order' => '100',
+    ),
+    180 => 
+    array (
+      'goods_id' => '1678',
+      'sort_order' => '100',
+    ),
+    181 => 
+    array (
+      'goods_id' => '1677',
+      'sort_order' => '100',
+    ),
+    182 => 
+    array (
+      'goods_id' => '1371',
+      'sort_order' => '100',
+    ),
+    183 => 
+    array (
+      'goods_id' => '1353',
+      'sort_order' => '100',
+    ),
+    184 => 
     array (
       'goods_id' => '1815',
       'sort_order' => '100',
@@ -827,12 +982,12 @@ $data = array (
     ),
     10 => 
     array (
-      'goods_id' => '1749',
+      'goods_id' => '1748',
       'sort_order' => '100',
     ),
     11 => 
     array (
-      'goods_id' => '1674',
+      'goods_id' => '1749',
       'sort_order' => '100',
     ),
     12 => 
@@ -842,30 +997,10 @@ $data = array (
     ),
     13 => 
     array (
-      'goods_id' => '1685',
-      'sort_order' => '100',
-    ),
-    14 => 
-    array (
-      'goods_id' => '1692',
-      'sort_order' => '100',
-    ),
-    15 => 
-    array (
       'goods_id' => '1750',
       'sort_order' => '100',
     ),
-    16 => 
-    array (
-      'goods_id' => '1756',
-      'sort_order' => '100',
-    ),
-    17 => 
-    array (
-      'goods_id' => '1758',
-      'sort_order' => '100',
-    ),
-    18 => 
+    14 => 
     array (
       'goods_id' => '1680',
       'sort_order' => '100',
@@ -873,18 +1008,10 @@ $data = array (
   ),
   'hot' => 
   array (
-    0 => 
-    array (
-      'goods_id' => '1781',
-      'sort_order' => '100',
-    ),
   ),
   'brand' => 
   array (
     1750 => '片仔癀',
-    1751 => '片仔癀',
-    1756 => '片仔癀',
-    1758 => '片仔癀',
   ),
 );
 ?>

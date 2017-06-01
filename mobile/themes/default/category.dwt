@@ -45,12 +45,15 @@
       <input type="hidden" name="order" value="{$pager.order}" />
     </form>
   </div>
+
   <form name="compareForm" action="compare.php" method="post" onSubmit="return compareGoods(this);">
+  <!--列表-->/.//
     <div class="srp album flex-f-row" id="J_ItemList" style="opacity:1;">
       <div class="product flex_in single_item">
         <div class="pro-inner"></div>
       </div>
-      <a href="javascript:;" class="get_more"></a> </div>
+      <a href="javascript:;" class="get_more"></a>
+    </div>
   </form>
   <!-- #BeginLibraryItem "/library/page_footer.lbi" --><!-- #EndLibraryItem -->
 </div>
@@ -100,6 +103,7 @@
       </div>
       <!--{/if}-->
       <!--{foreach from=$filter_attr_list item=filter_attr}-->
+
       <div class="attr brandAttr">
         <div class="attrKey">{$filter_attr.filter_attr_name|escape:html}</div>
         <div class="attrValues">
