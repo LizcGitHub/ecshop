@@ -2,82 +2,130 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd7ae141-9829-42b9-9cf6-58de176bc100" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/goods_65E7DF8E.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/index_40F756F01496134179.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/index_40F756F01496134181.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/index_40F756F01496134233.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/index_40F756F01496134640.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/index_40F756F01496134672.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/index_40F756F01496135268.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/index_40F756F01496134150.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/index_40F756F01496134264.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/index_40F756F01496288282.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/goods_5AFBF70F.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/index_40F756F01492839317.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/index_40F756F01496134255.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/index_40F756F01496134266.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/index_E6805D441492744321.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/index_40F756F01496287432.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/6/index_40F756F01492840419.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/6/index_40F756F01496134260.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/category_736E293F1496134173.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/goods_BD00A093.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/goods_F08DE9CA.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/goods_D6DD9150.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/index_40F756F01496134653.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/index_40F756F01496134763.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/9/category_EF2E8E0B1496135240.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/9/index_40F756F01496287396.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/a/goods_70AA9AE4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/a/index_40F756F01496134206.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01492839572.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496134315.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496287456.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496287948.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/category_73DB86951496134998.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/category_B24E6D21496135006.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/index_40F756F01496134681.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/article_cat_E82A1D04.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/index_40F756F01496134663.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/f/index_40F756F01496286573.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/login.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/message.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/article.dwt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/article_cat.dwt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/flow.dwt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/order_total.lbi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/pages.lbi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/rxRegistResult.dwt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/search.dwt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/query_caches/sqlcache_config_file_4b612b5637affd0d60e6263235990a76.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/query_caches/sqlcache_config_file_9c01d9e9f95065ded245d750b312be18.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/query_caches/sqlcache_config_file_e0b6249ca561c0013fa20573ef28a41e.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/art_cat_pid_releate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/category_21E19C7E1496305220.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/category_5AC8AD9B1496324624.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/category_A463733C1496308349.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/category_E771C9AA1496311145.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/index_E6805D441496300053.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/index_E6805D441496309646.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/category_21E19C7E1496306742.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/category_228262761496307960.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/category_5AC8AD9B1496307240.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/category_A44906E81496305726.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/goods_75C465D0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/1/group_buy_list_8E8CD29.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/category_21E19C7E1496305071.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/category_21E19C7E1496305266.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/category_81BA914A1496304359.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/category_E771C9AA1496324613.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/2/index_40F756F01496299155.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/category_1735D8D51496324600.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/category_5AC8AD9B1496307147.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/category_A44906E81496305729.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/index_40F756F01496299198.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/index_E6805D441496304341.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/3/index_E6805D441496310784.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/category_21E19C7E1496311162.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/category_A5A7B3641496306803.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/category_E771C9AA1496305025.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/index_40F756F01496299501.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/4/index_E6805D441496306870.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/category_228262761496307986.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/category_472AC49E1496324576.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/category_B2DF3D3A1496306755.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/index_40F756F01496299142.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/index_40F756F01496301454.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/index_E6805D441496300384.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/5/index_E6805D441496307971.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/6/category_5AC8AD9B1496307220.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/6/category_A44906E81496305973.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/6/index_E6805D441496306967.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/6/index_E6805D441496307235.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/category_21E19C7E1496305473.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/category_21E19C7E1496305671.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/category_21E19C7E1496311256.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/category_5AC8AD9B1496307047.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/7/index_E6805D441496310777.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/category_21E19C7E1496305209.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/category_5AC8AD9B1496307113.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/category_A44906E81496305790.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/category_B2DF3D3A1496324549.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/index_E6805D441496307996.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/8/index_E6805D441496311313.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/9/category_5AC8AD9B1496306978.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/a/category_228262761496311134.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/a/category_B24E6D21496306934.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/a/index_E6805D441496324531.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/b/category_21E19C7E1496305468.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/b/category_5AC8AD9B1496309865.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/b/category_C1CBD5D41496326306.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/category_21E19C7E1496305033.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/category_4D166A471496324586.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/category_5AC8AD9B1496307346.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/category_5AC8AD9B1496307397.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496299126.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496299136.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496299213.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496299298.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_40F756F01496306879.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/c/index_E6805D441496309183.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/category_21E19C7E1496304368.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/category_21E19C7E1496305566.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/category_A44906E81496305727.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/d/index_E6805D441496326629.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/category_21E19C7E1496324559.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/category_2BDD32A71496326290.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/category_5AC8AD9B1496307267.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/category_5AC8AD9B1496308006.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/category_A44906E81496305957.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/goods_EBDEF949.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/e/index_E6805D441496301671.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/f/category_A5A7B3641496306774.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/f/category_B2DF3D3A1496324655.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/f/index_E6805D441496302095.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/caches/f/index_E6805D441496326293.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/goods_list.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/goods_search.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/order_list.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/shop_config.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/shop_config_form.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/catalog.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/category.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/comments.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/comments_list.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/goods.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/user_clips.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/compiled/user_passport.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/api_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/cat_parent_grade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/cloud_remind.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/recommend_goods.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/group_buy_list.htm" afterPath="$PROJECT_DIR$/admin/templates/group_buy_list.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/category.php" afterPath="$PROJECT_DIR$/mobile/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/lib_common.php" afterPath="$PROJECT_DIR$/includes/lib_common.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/data/config.php" afterPath="$PROJECT_DIR$/mobile/data/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/group_buy.php" afterPath="$PROJECT_DIR$/mobile/group_buy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/caches/0/group_buy_list_C5A54C97.php" afterPath="$PROJECT_DIR$/mobile/temp/caches/0/group_buy_list_C5A54C97.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/menu.htm.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/admin/menu.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/pageheader.htm.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/admin/pageheader.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/start.htm.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/admin/start.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/admin/top.htm.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/admin/top.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/cat_goods.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/cat_goods.lbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/category.dwt.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/category.dwt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/comments_list.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/comments_list.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/group_buy_list.dwt.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/group_buy_list.dwt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/index_ad.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/index_ad.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/index_cat.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/index_cat.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/index_nav.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/index_nav.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/message.dwt.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/message.dwt.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/page_footer.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/page_footer.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/recommend_best.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/recommend_best.lbi.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/compiled/recommend_new.lbi.php" afterPath="$PROJECT_DIR$/mobile/temp/compiled/recommend_new.lbi.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/query_caches/sqlcache_config_file_6ae335a27b41a6fce15f0c199f1e6a86.php" afterPath="$PROJECT_DIR$/mobile/temp/query_caches/sqlcache_config_file_6ae335a27b41a6fce15f0c199f1e6a86.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/cat_option_static.php" afterPath="$PROJECT_DIR$/mobile/temp/static_caches/cat_option_static.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/cat_pid_releate.php" afterPath="$PROJECT_DIR$/mobile/temp/static_caches/cat_pid_releate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/recommend_goods.php" afterPath="$PROJECT_DIR$/mobile/temp/static_caches/recommend_goods.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/temp/static_caches/shop_config.php" afterPath="$PROJECT_DIR$/mobile/temp/static_caches/shop_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/themes/default/category.dwt" afterPath="$PROJECT_DIR$/mobile/themes/default/category.dwt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/themes/default/group_buy_list.dwt" afterPath="$PROJECT_DIR$/mobile/themes/default/group_buy_list.dwt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/themes/default/search.dwt" afterPath="$PROJECT_DIR$/mobile/themes/default/search.dwt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/themes/default/style.css" afterPath="$PROJECT_DIR$/mobile/themes/default/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" afterPath="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/group_buy.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/group_buy.lbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/recommend_promotion.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/recommend_promotion.lbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/vote.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/vote.lbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_41719924c2a1df81cc646d9f06d32913.php" afterPath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_41719924c2a1df81cc646d9f06d32913.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_30b260a4ce7b55875fad507c291f0237.php" afterPath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_30b260a4ce7b55875fad507c291f0237.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" afterPath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/menu_api.php" afterPath="$PROJECT_DIR$/temp/static_caches/menu_api.php" />
     </list>
     <ignored path="ecchop_.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,74 +147,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.75">
-              <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
-              <folding>
-                <marker date="1496326155118" expanded="true" signature="3591:3679" placeholder="SELECT brand..${$GLOBALS['ecs']-&gt;table('brand')}..." />
-                <marker date="1496326155118" expanded="true" signature="9995:10336" placeholder="SELECT a.att..${$ecs-&gt;table('attribute')}..." />
-                <marker date="1496326155118" expanded="true" signature="10485:10938" placeholder="SELECT a.att..${$ecs-&gt;table('goods_attr')}..." />
-                <marker date="1496326155118" expanded="true" signature="13144:13266" placeholder="SELECT DISTI..${$ecs-&gt;table('goods_attr')}..." />
-                <marker date="1496326155118" expanded="true" signature="15752:15840" placeholder="SELECT brand..${$GLOBALS['ecs']-&gt;table('brand')}..." />
-                <marker date="1496326155118" expanded="true" signature="22228:22569" placeholder="SELECT a.att..${$ecs-&gt;table('attribute')}..." />
-                <marker date="1496326155118" expanded="true" signature="22718:23171" placeholder="SELECT a.att..${$ecs-&gt;table('goods_attr')}..." />
-                <marker date="1496326155118" expanded="true" signature="25378:25500" placeholder="SELECT DISTI..${$ecs-&gt;table('goods_attr')}..." />
-                <marker date="1496326155118" expanded="true" signature="29124:29278" placeholder="SELECT cat_n..${$GLOBALS['ecs']-&gt;table('category')}..." />
-                <marker date="1496326155118" expanded="true" signature="37429:37508" placeholder="SELECT COUNT..${$GLOBALS['ecs']-&gt;table('goods')}..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="group_buy_list.dwt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mobile/themes/default/group_buy_list.dwt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51227677">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="group_buy.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="group_buy.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/group_buy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.75">
-              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-              <folding>
-                <element signature="e#7#492#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="supertouch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/themes/default/js/supertouch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="471" column="13" selection-start-line="471" selection-start-column="9" selection-end-line="471" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/themes/default/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="796" column="20" selection-start-line="796" selection-start-column="20" selection-end-line="796" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="group_buy_list.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/group_buy_list.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+            <state vertical-scroll-proportion="1.6953489">
+              <caret line="305" column="18" selection-start-line="305" selection-start-column="18" selection-end-line="305" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -194,6 +179,7 @@
         <option value="$PROJECT_DIR$/mobile/category.php" />
         <option value="$PROJECT_DIR$/mobile/themes/default/group_buy_list.html" />
         <option value="$PROJECT_DIR$/mobile/themes/default/group_buy_list.dwt" />
+        <option value="$PROJECT_DIR$/includes/lib_common.php" />
       </list>
     </option>
   </component>
@@ -201,6 +187,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -234,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -288,10 +278,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecchop_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecchop_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,6 +306,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_\mobile\images" />
       <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_" />
       <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_\includes" />
       <recent name="F:\_PHP\_PHP_Study\WWW\demo\ecchop_\mobile" />
@@ -339,6 +343,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dd7ae141-9829-42b9-9cf6-58de176bc100" name="Default" comment="" />
@@ -352,9 +359,9 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19189766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19829424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.064935066" sideWeight="0.51119405" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -366,70 +373,54 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32467532" sideWeight="0.48880598" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.064935066" sideWeight="0.51119405" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32467532" sideWeight="0.48880598" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/admin/templates/ads_info.htm</url>
+          <line>181</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/templates/group_buy_list.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/themes/default/index.dwt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/themes/default/search.dwt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="80" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="466" column="56" selection-start-line="466" selection-start-column="56" selection-end-line="466" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="333" column="9" selection-start-line="333" selection-start-column="9" selection-end-line="333" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/lib_ymb.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -448,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,9 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.4802325">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="e#7#490#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="8.445349">
           <caret line="280" column="4" selection-start-line="280" selection-start-column="4" selection-end-line="280" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="10.454651">
           <caret line="333" column="9" selection-start-line="333" selection-start-column="9" selection-end-line="333" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,20 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.5">
@@ -629,31 +599,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/group_buy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-29.25">
-          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/includes/inc_menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.4722223">
           <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/lib_common.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4722223">
-          <caret line="1706" column="58" selection-start-line="1706" selection-start-column="58" selection-end-line="1706" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/admin/group_buy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.5">
-          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -687,9 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/themes/default/js/supertouch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="14.19308">
           <caret line="471" column="13" selection-start-line="471" selection-start-column="9" selection-end-line="471" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,17 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/themes/default/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="24.990698">
           <caret line="796" column="20" selection-start-line="796" selection-start-column="20" selection-end-line="796" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/group_buy_list.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,35 +666,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.75">
           <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
-          <folding>
-            <marker date="1496326155118" expanded="true" signature="3591:3679" placeholder="SELECT brand..${$GLOBALS['ecs']-&gt;table('brand')}..." />
-            <marker date="1496326155118" expanded="true" signature="9995:10336" placeholder="SELECT a.att..${$ecs-&gt;table('attribute')}..." />
-            <marker date="1496326155118" expanded="true" signature="10485:10938" placeholder="SELECT a.att..${$ecs-&gt;table('goods_attr')}..." />
-            <marker date="1496326155118" expanded="true" signature="13144:13266" placeholder="SELECT DISTI..${$ecs-&gt;table('goods_attr')}..." />
-            <marker date="1496326155118" expanded="true" signature="15752:15840" placeholder="SELECT brand..${$GLOBALS['ecs']-&gt;table('brand')}..." />
-            <marker date="1496326155118" expanded="true" signature="22228:22569" placeholder="SELECT a.att..${$ecs-&gt;table('attribute')}..." />
-            <marker date="1496326155118" expanded="true" signature="22718:23171" placeholder="SELECT a.att..${$ecs-&gt;table('goods_attr')}..." />
-            <marker date="1496326155118" expanded="true" signature="25378:25500" placeholder="SELECT DISTI..${$ecs-&gt;table('goods_attr')}..." />
-            <marker date="1496326155118" expanded="true" signature="29124:29278" placeholder="SELECT cat_n..${$GLOBALS['ecs']-&gt;table('category')}..." />
-            <marker date="1496326155118" expanded="true" signature="37429:37508" placeholder="SELECT COUNT..${$GLOBALS['ecs']-&gt;table('goods')}..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/group_buy.php">
+    <entry file="file://$PROJECT_DIR$/mobile/themes/default/goods.dwt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.75">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#492#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.5617597">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/certi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77837837">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/themes/default/category.dwt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/group_buy_list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.027779">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/group_buy_info.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.25">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/ads_info.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7777777">
+          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/group_buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5456172">
+          <caret line="157" column="37" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/group_buy_list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1109123">
+          <caret line="53" column="76" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40861467">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/no_picture.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lib_common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4249127">
+          <caret line="596" column="75" selection-start-line="596" selection-start-column="75" selection-end-line="596" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/themes/default/group_buy_list.dwt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51227677">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/group_buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0314319">
+          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/group_buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6953489">
+          <caret line="305" column="18" selection-start-line="305" selection-start-column="18" selection-end-line="305" selection-end-column="18" />
           <folding />
         </state>
       </provider>

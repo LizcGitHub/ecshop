@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:2:{i:0;s:76:"F:/_PHP/_PHP_Study/WWW/demo/ecchop_/mobile/themes/default/group_buy_list.dwt";i:1;s:81:"F:/_PHP/_PHP_Study/WWW/demo/ecchop_/mobile/themes/default/library/page_footer.lbi";}s:7:"expires";i:1496330308;s:8:"maketime";i:1496326708;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:2:{i:0;s:76:"F:/_PHP/_PHP_Study/WWW/demo/ecchop_/mobile/themes/default/group_buy_list.dwt";i:1;s:81:"F:/_PHP/_PHP_Study/WWW/demo/ecchop_/mobile/themes/default/library/page_footer.lbi";}s:7:"expires";i:1496413619;s:8:"maketime";i:1496410019;}<!DOCTYPE html>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -26,7 +26,7 @@
       <div class="product flex_in single_item">
         <div class="pro-inner"></div>
       </div>
-      <a href="javascript:;" class="get_more">上滑更多哦</a>
+      <a href="javascript:;" class="get_more">上滑更多</a>
     </div>
     <div class="mr-t20">
   <div class="footer1">

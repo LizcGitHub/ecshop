@@ -28,7 +28,7 @@
       <div class="product flex_in single_item">
         <div class="pro-inner"></div>
       </div>
-      <a href="javascript:;" class="get_more">上滑更多哦</a>
+      <a href="javascript:;" class="get_more">上滑更多</a>
     </div>
     <?php echo $this->fetch('library/page_footer.lbi'); ?>
   </div>

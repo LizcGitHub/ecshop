@@ -11,12 +11,12 @@
       <p>回顶部</p>
       </a> </div>
     <!--<ul class="mf_o2">
-      <?php $_from = $this->_var['navigator_list']['bottom']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'nav');$this->_foreach['nav_bottom_list'] = array('total' => count($_from), 'iteration' => 0);
+      <?php $_from = $this->_var['navigator_list']['bottom']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'nav_0_79885000_1496395960');$this->_foreach['nav_bottom_list'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['nav_bottom_list']['total'] > 0):
-    foreach ($_from AS $this->_var['nav']):
+    foreach ($_from AS $this->_var['nav_0_79885000_1496395960']):
         $this->_foreach['nav_bottom_list']['iteration']++;
 ?>
-      <li><a href="<?php echo $this->_var['nav']['url']; ?>" <?php if ($this->_var['nav']['opennew'] == 1): ?> target="_blank" <?php endif; ?>><?php echo $this->_var['nav']['name']; ?></a></li>
+      <li><a href="<?php echo $this->_var['nav_0_79885000_1496395960']['url']; ?>" <?php if ($this->_var['nav_0_79885000_1496395960']['opennew'] == 1): ?> target="_blank" <?php endif; ?>><?php echo $this->_var['nav_0_79885000_1496395960']['name']; ?></a></li>
       <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
     </ul>-->
     <p class="mf_o4"><?php echo $this->_var['copyright']; ?></p>
