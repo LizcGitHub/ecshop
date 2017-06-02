@@ -34,6 +34,5 @@ $modules['12_template']['03_template_setup']        = 'template.php?act=setup';
 $modules['12_template']['04_template_library']      = 'template.php?act=library';
 $modules['12_template']['05_edit_languages']        = 'edit_languages.php?act=list';
 $modules['12_template']['06_template_backup']       = 'template.php?act=backup_setting';
-//促销菜单test
-$modules['17_sales_manage']['01_group_activity']       = 'group_buy.php';
+
 ?>
