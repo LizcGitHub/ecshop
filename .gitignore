@@ -8,3 +8,7 @@
 /captures
 .externalNativeBuild
 .idea/
+/temp/caches
+/temp/compiled
+/temp/query_caches
+/temp/static_caches
