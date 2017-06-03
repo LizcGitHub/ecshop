@@ -221,7 +221,6 @@ if (!defined('INIT_NO_USERS'))
             if ($_SESSION['user_id'] > 0)
             {
                 update_user_info();
-                asdfasdfdasfdasfdas
             }
         }
         else
