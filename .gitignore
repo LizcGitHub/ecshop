@@ -1,12 +1,44 @@
-
-
-
 .idea/
+.DS_Store
+.vscode/
+node_modules
+package.json
 
-
-/.idea/workspace.xml
-.idea/workspace.xml
-/temp/
-
-
-/mobile/temp/
+# 项目OMS忽略文件
+images/*
+!images/.gitkeep
+data/config.php
+mobile/data/config.php
+data/afficheimg/*
+!data/afficheimg/index.htm
+data/brandlogo/*
+!data/brandlogo/index.htm
+temp/backup/*
+!temp/backup/.gitkeep
+temp/caches/*
+!temp/caches/.gitkeep
+temp/compiled/*
+!temp/compiled/.gitkeep
+temp/query_caches/*
+!temp/query_caches/.gitkeep
+temp/static_caches/*
+!temp/static_caches/.gitkeep
+# 微信支付日志
+wxpay/logs/*
+!wxpay/logs/.gitkeep
+# winmerge对比备份文件
+*.bak
+#手机temp缓存文件忽略
+mobile/temp/backup/*
+!mobile/temp/backup/.gitkeep
+mobile/temp/caches/*
+!mobile/temp/caches/.gitkeep
+mobile/temp/compiled/*
+!mobile/temp/compiled/.gitkeep
+mobile/temp/query_caches/*
+!mobile/temp/query_caches/.gitkeep
+mobile/temp/static_caches/*
+!mobile/temp/static_caches/.gitkeep
+mobile/temp/backup/.gitkeep
+admin/order.xls
+mobile/data/config.php
